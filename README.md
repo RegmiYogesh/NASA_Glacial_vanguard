@@ -14,4 +14,4 @@ The datasets used in this project are created using google earth engine (GEE). D
 https://code.earthengine.google.com/923bf93beaaf0c883a980d4ac1b13d44 
 and patches of training samples are created using sampling Model of GEE and can be accessed through
 
-https://code.earthengine.google.com/3bbd504c297230349e908a8f2b37c22c
+https://code.earthengine.google.com/1960907a90391872eae93542067c426e
