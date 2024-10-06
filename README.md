@@ -11,7 +11,8 @@ Build a machine learning model to predict/analyze/forecast vulnerable communitie
 Visualize results using various Python libraries.
 
 The datasets used in this project are created using google earth engine (GEE). Digitization of glacier lakes is done with DIgitization Model of GEE and can be accessed through 
+
 https://code.earthengine.google.com/ec24d3692e2173939f044f54cb5891ec  
 and patches of training samples are created using sampling Model of GEE and can be accessed through
 
-https://code.earthengine.google.com/7d9016ad4bcf7411420151554c3e8349
+https://code.earthengine.google.com/3bbd504c297230349e908a8f2b37c22c
